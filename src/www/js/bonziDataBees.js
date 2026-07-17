@@ -67,4 +67,20 @@ BonziData.event_list_bees = [
 		type: "text",
 		text: "Screw this!"
 	},
-];	
+		{
+		type: "text",
+		text: "But,"
+	},
+		{
+		type: "text",
+		text: "I skipped until the end script of bee movie."
+	},
+		{
+		type: "text",
+		text: "Like this!"
+	},
+		{
+		type: "text",
+		text: "You are in a coma. This is our only way to communicate. Please wake up."
+	}
+];
