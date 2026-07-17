@@ -573,13 +573,13 @@ BonziData.event_list_triggered = [
 	},
 	{
 		type: "text",
-		text: "I’m having an IT intern install Internet Explorer 6, aquarium screensavers and PC Doctor 2016 on my body. From now on I want you guys to call “my name” and respect my right to meme from above and meme needlessly.",
+		text: "I'm having an IT intern install Internet Explorer 6, aquarium screensavers and PC Doctor 2016 on my body. From now on I want you guys to call “my name” and respect my right to meme from above and meme needlessly.",
 		say: "I'm having an IT intern install Internet Explorer 6, aquarium screensavers and PC Doctor 2016 on my body. From now on I want you guys to call me {NAME} and respect my right to meme from above and meme needlessly."
 	},
 	{
 		type: "text",
-		text: "If you can't accept me, you need to check your file permissions. Thank you for being so understanding.",
-		say: "If you cant accept me, you need to check your file permissions. Thanks for your understanding."
+		text: "NOTE: If you can't accept me, you need to check your file permissions. Thank you for being so understanding.",
+		say: "note. If you cant accept me, you need to check your file permissions. Thanks for your understanding."
 	},
 	{
 		type: "idle"
