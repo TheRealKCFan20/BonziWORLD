@@ -215,8 +215,8 @@ var BonziData = {
 			},
 			{
 				type: "text",
-				text: '"Haha, look at the stupid {COLOR} monkey telling jokes!" Fuck you. It isn\'t funny.',
-				say: "Hah hah! Look at the stupid {COLOR} monkey telling jokes! Fuck you. It isn't funny."
+				text: '"Haha, look at the {COLOR} monkey telling jokes!" Hey, It isn\'t funny.',
+				say: "Hah hah, Look at the {COLOR} monkey telling jokes! Hey, It isn't funny."
 			},
 			{
 				type: "anim",
@@ -225,17 +225,17 @@ var BonziData = {
 			},
 			{
 				type: "text",
-				text: "But I'll do it anyway. Because you want me to. I hope you're happy."
+				text: "But I'll do it anyway. I hope you're happy."
 			}
 		],[
 			{
 				type: "text",
-				text: "{NAME} used /joke. Whoop-dee-fucking doo."
+				text: "{NAME} used /joke."
 			}
 		],[
 			{
 				type: "text",
-				text: "HEY YOU IDIOTS ITS TIME FOR A JOKE"
+				text: "HEY EVERYONE! ITS TIME FOR A JOKE!"
 			}
 		],[
 			{
@@ -248,17 +248,17 @@ var BonziData = {
 			},
 			{
 				type: "text",
-				text: "Mute me then. That's your fucking problem."
+				text: "Mute me then. That's your problem, bro."
 			}
 		],[
 			{
 				type: "text",
-				text: "Senpai {NAME} wants me to tell a joke."
+				text: "{NAME} wants me to tell a joke."
 			}
 		],[
 			{
 				type: "text",
-				text: "Time for whatever horrible fucking jokes the creator of this site wrote."
+				text: "Time for whatever horribly written jokes the creator of this site wrote."
 			}
 		]
 	],
@@ -270,7 +270,7 @@ var BonziData = {
 			},
 			{
 				type: "text",
-				text: "Child support!"
+				text: "Trouble!"
 			}
 		],[
 			{
@@ -279,7 +279,7 @@ var BonziData = {
 			},
 			{
 				type: "text",
-				text: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+				text: "Too much lava!"
 			},
 			{
 				type: "anim",
@@ -288,13 +288,13 @@ var BonziData = {
 			},
 			{
 				type: "text",
-				text: "Sorry. I just had an epiphany of my own sad, sad existence."
+				text: "I just had an epiphany of my own sad existence."
 			}
 		],[
 			{
 				type: "text",
-				text: "Two sausages are in a pan. One looks at the other and says \"Boy it's hot in here!\" and the other sausage says \"Unbelievable! It's a talking sausage!\"",
-				say: "Two sausages are in a pan. One looks at the other and says, Boy it's hot in here! and the other sausage says, Unbelievable! It's a talking sausage!"
+				text: "Two muffins are in a oven. One looks at the other and says \"Boy it's hot in here!\" and the other muffin says \"Unbelievable! It's a talking muffin!\"",
+				say: "Two muffins are in a oven. One looks at the other and says, Boy it's hot in here! and the other muffin says, Unbelievable! It's a talking muffin!"
 			},
 			{
 				type: "anim",
@@ -303,7 +303,7 @@ var BonziData = {
 			},
 			{
 				type: "text",
-				text: "What were you expecting? A dick joke? You're a sick fuck."
+				text: "What were you expecting? A joke? That will be not long enough."
 			}
 		],[
 			{
@@ -312,7 +312,7 @@ var BonziData = {
 			},
 			{
 				type: "text",
-				text: "A giant inflatable buttplug."
+				text: "A letter R."
 			}
 		],[
 			{
@@ -321,7 +321,7 @@ var BonziData = {
 			},
 			{
 				type: "text",
-				text: "Sonic's asshole."
+				text: "Sonic's WOAH WOAH WOAH."
 			}
 		],[
 			{
@@ -330,7 +330,7 @@ var BonziData = {
 			},
 			{
 				type: "text",
-				text: "Your mother's."
+				text: "I don't even know."
 			}
 		],[
 			{
@@ -339,7 +339,7 @@ var BonziData = {
 			},
 			{
 				type: "text",
-				text: "Nintendo!"
+				text: "A taxi driver!"
 			}
 		],[
 			{
@@ -348,7 +348,7 @@ var BonziData = {
 			},
 			{
 				type: "text",
-				text: "Suck my clock."
+				text: "Look, grandpa, No hands!"
 			}
 		],[
 			{
@@ -357,7 +357,7 @@ var BonziData = {
 			},
 			{
 				type: "text",
-				text: "A woman."
+				text: "A barber."
 			}
 		],[
 			{
@@ -366,7 +366,7 @@ var BonziData = {
 			},
 			{
 				type: "text",
-				text: "Cum in them."
+				text: "I still don't know."
 			}
 		],[
 			{
@@ -375,7 +375,8 @@ var BonziData = {
 			},
 			{
 				type: "text",
-				text: "Because we KNEAD it. Haha please send money to my PayPal at nigerianprince99@bonzi.com"
+				text: "Because everyone KNEADS it.",
+				say: "Because Everyone kneads it. Hah hah!
 			}
 		],[
 			{
@@ -384,7 +385,7 @@ var BonziData = {
 			},
 			{
 				type: "text",
-				text: "ASS"
+				text: "A ruminants."
 			},
 			{
 				type: "text",
@@ -396,16 +397,16 @@ var BonziData = {
 		[
 			{
 				type: "text",
-				text: "You know {NAME}, a good friend laughs at your jokes even when they're not so funny."
+				text: "You know {NAME}, a good friend laughs at your jokes even when they're not so good."
 			},
 			{
 				type: "text",
-				text: "And you fucking suck. Thanks."
+				text: "And you like it. Thanks."
 			}
 		],[
 			{
 				type: "text",
-				text: "Where do I come up with these? My ass?"
+				text: "Where do I come up with these?"
 			}
 		],[
 			{
@@ -414,13 +415,14 @@ var BonziData = {
 			},
 			{
 				type: "text",
-				text: "pls respond",
-				say: "please respond"
+				text: "Please, Respond.",
+				say: "please, respond."
 			}
 		],[
 			{
 				type: "text",
-				text: "Maybe I'll keep my day job, {NAME}. Patreon didn't accept me."
+				text: "Maybe I'll keep my day job, {NAME}.",
+				say: "Maybe I'll keep my day job, {NAME}. Patreon didn't accept me."
 			}
 		],[
 			{
@@ -429,7 +431,7 @@ var BonziData = {
 			},
 			{
 				type: "text",
-				text: "Apart from meth."
+				text: "Or not."
 			}
 		],[
 			{
@@ -438,7 +440,7 @@ var BonziData = {
 			},
 			{
 				type: "text",
-				text: "Help! I'm being oppressed!"
+				text: "Please."
 			}
 		]
 	],
@@ -450,7 +452,7 @@ var BonziData = {
 			{
 				type: "html",
 				text: "Hey kids, it's time for a Fun Fact&reg;!",
-				say: "Hey kids, it's time for a Fun Fact!"
+				say: "Hey kids, it's time for a Fun Facts!"
 			}
 		]
 	],
@@ -465,7 +467,7 @@ var BonziData = {
 			{
 				type: "text",
 				text: "Did you know that Uranus is 31,518 miles (50,724 km) in diameter?",
-				say: "Did you know that Yer Anus is 31 thousand 500 and 18 miles in diameter?",
+				say: "Fun Fact. Did you know that Yer Anus is 31 thousand 500 and 18 miles in diameter?",
 			},
 			{
 				type: "anim",
@@ -485,7 +487,7 @@ var BonziData = {
 			{
 				type: "html",
 				text: "<img src='./img/misc/topjej.png'></img>",
-				say: "toppest jej"
+				say: "Toppest Jej."
 			}
 		]
 	],
@@ -494,7 +496,7 @@ var BonziData = {
 		[
 			{
 				type: "text",
-				text: "o gee whilickers wasn't that sure interesting huh"
+				text: "Wow! Wasn't that sure interesting?"
 			}
 		]
 	]
@@ -561,23 +563,23 @@ BonziData.event_list_triggered = [
 	},
 	{
 		type: "text",
-		text: "I sexually identify as BonziBUDDY. Ever since I was a young gorilla I dreamed of invading desktops dropping hot sticky tootorals on disgusting PC users.",
-		say: "I sexually identify as BonziBUDDY. Ever since I was a young gorilla I dreamed of invading desktops dropping hot sticky tootorals on disgusting PC users."
+		text: "I orignally as BonziBUDDY. Ever since I was a young gorilla I dreamed of invading desktops dropping hot sticky tootorals on disgusting PC users.",
+		say: "I oringally  as BonziBUDDY. Ever since I was a young gorilla I dreamed of invading desktops dropping hot sticky too to ral\'s on disgusting PC users."
 	},
 	{
 		type: "text",
-		text: "People say to me that a person being a BonziBUDDY is impossible and that I’m a fucking virus but I don’t care, I’m beautiful.",
-		say: "People say to me that a person being a BonziBUDDY is impossible and that I'm a fucking virus but I dont care, I'm beautiful."
+		text: "People say to me that a person being a BonziBUDDY is impossible and that I'm a virus but I don’t care, I'm beautiful.",
+		say: "People say to me that a person being a BonziBUDDY is impossible and that I\'m a actually virus but I dont care, I\'m beautiful."
 	},
 	{
 		type: "text",
-		text: "I’m having an IT intern install Internet Explorer 6, aquarium screensavers and PC Doctor 2016 on my body. From now on I want you guys to call me “Joel” and respect my right to meme from above and meme needlessly.",
-		say: "I'm having an IT intern install Internet Explorer 6, aquarium screensavers and PC Doctor 2016 on my body. From now on I want you guys to call me Joel and respect my right to meme from above and meme needlessly."
+		text: "I’m having an IT intern install Internet Explorer 6, aquarium screensavers and PC Doctor 2016 on my body. From now on I want you guys to call “my name” and respect my right to meme from above and meme needlessly.",
+		say: "I'm having an IT intern install Internet Explorer 6, aquarium screensavers and PC Doctor 2016 on my body. From now on I want you guys to call me {NAME} and respect my right to meme from above and meme needlessly."
 	},
 	{
 		type: "text",
 		text: "If you can’t accept me you’re a gorillaphobe and need to check your file permissions. Thank you for being so understanding.",
-		say: "If you cant accept me your a gorillaphobe and need to check your file permissions. Thank you for being so understanding."
+		say: "If you cant accept me your a gorillaphobe and need to check your file permissions. Thanks for your understanding."
 	},
 	{
 		type: "idle"
