@@ -135,19 +135,19 @@ class Bonzi {
 							this.mute = !this.mute;
 						}
 					},
-					"asshole": {
-						name: "Call an Asshole",
+					"stink": {
+						name: "Call an Stinky Head",
 						callback: () => {
 							socket.emit("command", {
-								list: ["asshole", this.userPublic.name]
+								list: ["stink", this.userPublic.name]
 							});
 						}
 					},
-					"owo": {
-						name: "Notice Bulge",
+					"notice": {
+						name: "Notice Existing Software",
 						callback: () => {
 							socket.emit("command", {
-								list: ["owo", this.userPublic.name]
+								list: ["notice", this.userPublic.name]
 							});
 						}
 					}
@@ -506,15 +506,15 @@ class Bonzi {
 		};
 	}
 
-	asshole(target) {
+	stink(target) {
 		this.runSingleEvent(
 			[{
 				type: "text",
 				text: "Hey, " + target + "!"
 			}, {
 				type: "text",
-				text: "You're a fucking asshole!",
-				say: "your a fucking asshole!"
+				text: "You're a Stinky Head!",
+				say: "your a stinky head!"
 			}, {
 				type: "anim",
 				anim: "grin_fwd",
@@ -525,16 +525,16 @@ class Bonzi {
 		);
 	}
 	
-	owo(target) {
+	notice(target) {
 		this.runSingleEvent(
 			[{
 				type: "text",
-				text: `*notices ${target}'s BonziBulge™*`,
-				say: `notices ${target}s bonzibulge`
+				text: `*Notices ${target}'s BonziExistingSoftware™*`,
+				say: `notices ${target}s bonzi existing software`
 			}, {
 				type: "text",
-				text: "owo, wat dis?",
-				say: "oh woah, what diss?"
+				text: "Oh my Woah, What's this?",
+				say: "oh my woah, what this?"
 			}]
 		);
 	}
