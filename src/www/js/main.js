@@ -15,7 +15,7 @@ function loadTest() {
 
 	window.loadTestInterval = rInterval(function() {
 		try {
-			if (!loadDone.equals(loadNeeded)) throw "Not done loading.";
+			if (!loadDone.equals(loadNeeded)) throw "Not done loading! Try again!";
 			login();
 			loadTestInterval.clear();
 		} catch(e) {}
@@ -53,9 +53,9 @@ $(function() {
 
 	socket.on("loginFail", function(data) {
 		var errorText = {
-			"nameLength": "Name too long.",
-			"full": "Room is full.",
-			"nameMal": "Nice try. Why would anyone join a room named that anyway?",
+			"nameLength": "Name is too long and full!",
+			"full": "Room is full!",
+			"nameMal": "Nice try! Why would anyone join a room named that anyway?",
 		};
 		$("#login_card").show();
 		$("#login_load").hide();
@@ -141,16 +141,16 @@ function setup() {
 		b.backflip(data.swag);
 	});
 
-	socket.on("asshole", function(data) {
+	socket.on("stink", function(data) {
 		var b = bonzis[data.guid];
 		b.cancel();
-		b.asshole(data.target);
+		b.stink(data.target);
 	});
 
-	socket.on("owo", function(data) {
+	socket.on("notice", function(data) {
 		var b = bonzis[data.guid];
 		b.cancel();
-		b.owo(data.target);
+		b.notice(data.target);
 	});
 
 	socket.on("triggered", function(data) {
