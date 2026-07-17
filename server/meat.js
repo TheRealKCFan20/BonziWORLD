@@ -190,14 +190,14 @@ let userCommands = {
         this.public.color = "pope";
         this.room.updateUser(this);
     },
-    "asshole": function() {
-        this.room.emit("asshole", {
+    "stink": function() {
+        this.room.emit("stink", {
             guid: this.guid,
             target: sanitize(Utils.argsString(arguments))
         });
     },
-    "owo": function() {
-        this.room.emit("owo", {
+    "notice": function() {
+        this.room.emit("notice", {
             guid: this.guid,
             target: sanitize(Utils.argsString(arguments))
         });
