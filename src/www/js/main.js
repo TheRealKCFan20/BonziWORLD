@@ -165,10 +165,10 @@ function setup() {
 		b.runSingleEvent(b.data.event_list_linux);
 	});
 
-	socket.on("pawn", function(data) {
+	socket.on("intro", function(data) {
 		var b = bonzis[data.guid];
 		b.cancel();
-		b.runSingleEvent(b.data.event_list_pawn);
+		b.runSingleEvent(b.data.event_list_intro);
 	});
 
 	socket.on("bees", function(data) {
