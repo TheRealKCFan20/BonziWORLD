@@ -1,10 +1,4 @@
-# BonziWORLD Patched
-
-This respository is a fork of the [original](https://github.com/heyjoeway/BonziWORLD). It will be updated frequently to be fully secure and fix problems with either the server or the client.
-
-This project was discontinued by heyjoeway due to his time being taken up by other responsibilities.
-
-All the source code for the server and client is publically available here. If you want to run your own BonziWORLD, by all means go ahead. Do whatever you'd like with this code. Just try to put me somewhere in the credits.
+# BonziWORLD
 
 ## Dependencies
 - Node.js and npm
@@ -16,8 +10,8 @@ All the source code for the server and client is publically available here. If y
 ## Setup
 In a terminal/command prompt, navigate to where you'd like BonziWORLD to be placed and run the following:
 ```
-git clone https://github.com/Seamusmario/BonziWORLD-patched
-cd BonziWORLD-patched
+git clone https://github.com/felipeangeloben-create/BonziWORLD
+cd BonziWORLD
 ```
 
 ### Client
