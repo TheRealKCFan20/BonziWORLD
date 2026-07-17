@@ -169,7 +169,7 @@ let userCommands = {
         });
     },
     "linux": "passthrough",
-    "pawn": "passthrough",
+    "intro": "passthrough",
     "bees": "passthrough",
     "color": function(color) {
         if (typeof color != "undefined") {
