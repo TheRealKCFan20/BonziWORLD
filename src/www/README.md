@@ -58,8 +58,8 @@ If you see any brackets, they indicate a placeholder. Don't type them in.
 * `/linux` - I'd just like to interject for a moment.
 * `/intro` - Hi, my name is BonziBUDDY, and this is my website.
 * [`/bees`](http://bees.bonziworld.com/) - According to all known laws of aviation, there is no way a bee should be able to fly.
-* `/vaporwave` - ＡＥＳＴＨＥＴＩＣ
-* `/unvaporwave` - ＡＥＳＴＨＥＴＩＣ ＩＳ ＫＩＬＬ
+* `/vaporwave` - AESTHETIC
+* `/unvaporwave` - AESTHETIC IS GONE
 
 ## Are there any rules?
 
@@ -73,7 +73,7 @@ No illegal content. On top of that, there are a few limitations:
     * After that, a new public room will be created.
 * A max of 30 people are allowed in private lobbies.
 
-Remember that people can play YouTube videos whenever they want. **Keep your volume down, headphone users.** Chat rooms are for the most part unmoderated. If shit starts getting spambotty, I might start using my banhammer.
+Remember that people can play YouTube videos whenever they want. **Keep your volume down, headphone users.** Chat rooms are for the most part unmoderated. However, If the things starts getting spambotty, I might start using my banhammer.
 
 ## Shoutouts to
 
@@ -93,5 +93,6 @@ Remember that people can play YouTube videos whenever they want. **Keep your vol
 * Apache Cordova
 * ~~Crosswalk~~ RIP CROSSWALK v1.?.? - v1.4.2
 * scss/sass
+* heyjoeway
 
 You guys are awesome. (And so are you, whoever's reading this!) There are also probably some others I forgot. If I remember you, I'll add you here.
