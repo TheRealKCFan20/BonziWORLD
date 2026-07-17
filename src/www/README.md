@@ -19,6 +19,7 @@ Memes. Also because the creator already finished the BonziBUDDY portion of this 
 2. Optionally, enter a room ID. If you want to join someone else, their room ID will be in the bottom-right corner of the screen.
 	* If you enter a room ID that doesn't exist, you will be placed in a private room which can only be joined by people you share the ID with.
 3. Be a BonziBUDDY.
+4. Be a Ananymass.
 
 ## What are the chat commands?
 
