@@ -21,6 +21,7 @@ Memes. Also because the creator already finished the BonziBUDDY portion of this 
 3. Be a BonziBUDDY.
 4. Be a Ananymass.
 	* Ananymass was included in BonziSPHERE and the other servers.
+5. Be a "fuG".
 
 ## What are the chat commands?
 
