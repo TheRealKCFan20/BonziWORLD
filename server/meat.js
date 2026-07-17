@@ -6,7 +6,10 @@ const settings = require("./settings.json");
 const sanitize = require('sanitize-html');
 const Profanity = require('./profanity.js');
 
-let roomsPublic = [];
+let roomsPublic = ["default"];
+let rooms = {
+    "default": new Room("default", settings.prefs.public)
+};
 let rooms = {};
 let usersAll = [];
 
