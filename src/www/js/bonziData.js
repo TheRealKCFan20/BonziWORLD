@@ -611,10 +611,10 @@ BonziData.event_list_linux = [
 	}
 ];
 
-BonziData.event_list_pawn = [
+BonziData.event_list_intro = [
 	{
 		type: "text",
-		text: "Hi, my name is BonziBUDDY, and this is my website. I meme here with my old harambe, and my son, Clippy. Everything in here has an ad and a fact. One thing I've learned after 17 years - you never know what is gonna give you some malware."
+		text: "Hi, my name is BonziBUDDY, and this is my website. I came here with my pal called Peedy. Everything in here has an ad and a fact. One thing I've learned after 19 years, you never know what is gonna give you some malware."
 	},
 
 ];
