@@ -57,7 +57,7 @@ If you see any brackets, they indicate a placeholder. Don't type them in.
 * `/triggered` - The best copypasta.
 * `/linux` - I'd just like to interject for a moment.
 * `/intro` - Hi, my name is BonziBUDDY, and this is my website.
-* [`/bees`](http://bees.bonziworld.com/) - According to all known laws of aviation, there is no way a bee should be able to fly.
+* [`/bees`](https://web.archive.org/web/20160910173949/http://bees.bonziworld.com/) - According to all known laws of aviation, there is no way a bee should be able to fly.
 * `/vaporwave` - AESTHETIC
 * `/unvaporwave` - AESTHETIC IS GONE
 
