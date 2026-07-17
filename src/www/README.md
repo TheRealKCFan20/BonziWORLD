@@ -20,6 +20,7 @@ Memes. Also because the creator already finished the BonziBUDDY portion of this 
 	* If you enter a room ID that doesn't exist, you will be placed in a private room which can only be joined by people you share the ID with.
 3. Be a BonziBUDDY.
 4. Be a Ananymass.
+	* Ananymass was included in BonziSPHERE and the other servers.
 
 ## What are the chat commands?
 
@@ -46,15 +47,15 @@ If you see any brackets, they indicate a placeholder. Don't type them in.
 	* Do '/backflip swag' for extra swag.
 * `/youtube [video ID]` - Play a YouTube video.
 	* Alternatively, you can simply paste the URL in chat and it will automatically play it.
-* `/asshole [name]` - Call someone an asshole.
+* `/stink [name]` - Call someone an stinky head.
 	* Don't ask why this was implemented. There's no answer.
 	* You can also right click on people to do the same thing.
-* `/owo [name]` - owo, wat dis?
+* `/notice [name]` - woah, what's this?
 * 	* You can also right click on people to do the same thing as well.
-	* Works pretty much the same as /asshole, right click and all.
+	* Works pretty much the same as /stink, right click and all.
 * `/triggered` - The best copypasta.
 * `/linux` - I'd just like to interject for a moment.
-* `/pawn` - Hi, my name is BonziBUDDY, and this is my website.
+* `/intro` - Hi, my name is BonziBUDDY, and this is my website.
 * [`/bees`](http://bees.bonziworld.com/) - According to all known laws of aviation, there is no way a bee should be able to fly.
 * `/vaporwave` - ＡＥＳＴＨＥＴＩＣ
 * `/unvaporwave` - ＡＥＳＴＨＥＴＩＣ ＩＳ ＫＩＬＬ
@@ -63,7 +64,7 @@ If you see any brackets, they indicate a placeholder. Don't type them in.
 
 No illegal content. On top of that, there are a few limitations:
 
-* All strings are sanitized to get rid of any malicious HTML/JS/CSS. _Don't even try it motherfucker._
+* All strings are sanitized to get rid of any malicious HTML/JS/CSS. _Don't even try it, Only the creators can do it._
 * There is a 2500 character limit in public rooms and a 5000 limit in private rooms.
 	* Yes, the Navy Seals copypasta fits.
 * There is a 25 character limit on names.
