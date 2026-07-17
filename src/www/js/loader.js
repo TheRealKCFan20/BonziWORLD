@@ -11,7 +11,7 @@ var loadNeeded = [
 	"topjej"
 ];
 
-$(window).load(function() {
+$(window).on("load", function() {
 	$("#login_card").show();
 	$("#login_load").hide();
 
