@@ -563,13 +563,13 @@ BonziData.event_list_triggered = [
 	},
 	{
 		type: "text",
-		text: "I orignally as BonziBUDDY. Ever since I was a young gorilla I dreamed of invading desktops dropping hot sticky tootorals on disgusting PC users.",
-		say: "I oringally  as BonziBUDDY. Ever since I was a young gorilla I dreamed of invading desktops dropping hot sticky too to ral\'s on disgusting PC users."
+		text: "I AM orignally as BonziBUDDY. Ever since I was a young gorilla I dreamed of invading desktops dropping hot sticky tootorals on disgusting PC users.",
+		say: "I am oringally as BonziBUDDY. Ever since I was a young gorilla I dreamed of invading desktops dropping hot sticky too to ral\'s on disgusting PC users."
 	},
 	{
 		type: "text",
-		text: "People say to me that a person being a BonziBUDDY is impossible and that I'm a virus but I don’t care, I'm beautiful.",
-		say: "People say to me that a person being a BonziBUDDY is impossible and that I\'m a actually virus but I dont care, I\'m beautiful."
+		text: "Peoples say to me that a person being a BonziBUDDY is impossible and that I'm a virus but I don’t care, I'm beautiful.",
+		say: "Peoples say to me that a person being a BonziBUDDY is impossible and that I\'m actually virus but I dont care, I\'m beautiful."
 	},
 	{
 		type: "text",
@@ -578,8 +578,8 @@ BonziData.event_list_triggered = [
 	},
 	{
 		type: "text",
-		text: "If you can’t accept me you’re a gorillaphobe and need to check your file permissions. Thank you for being so understanding.",
-		say: "If you cant accept me your a gorillaphobe and need to check your file permissions. Thanks for your understanding."
+		text: "If you can't accept me, you need to check your file permissions. Thank you for being so understanding.",
+		say: "If you cant accept me, you need to check your file permissions. Thanks for your understanding."
 	},
 	{
 		type: "idle"
