@@ -77,7 +77,7 @@ No illegal content. On top of that, there are a few limitations:
     * After that, a new public room will be created.
 * A max of 30 people are allowed in private lobbies.
 
-Remember that people can play YouTube videos whenever they want. **Keep your volume down, headphone users.** Chat rooms are for the most part unmoderated. However, If the things starts getting spambotty, I might start using my banhammer.
+Remember that people can play YouTube videos whenever they want. **Keep your volume down, headphone users.** Chat rooms are for the most part unmoderated. However, if things get spambotty or break the rules above, I might start using my banhammer.
 
 ## Shoutouts to
 
