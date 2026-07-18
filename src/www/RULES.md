@@ -26,3 +26,9 @@ This includes but is not limited to: CSAM, threats of violence, doxxing, and any
 * Don't harass other users.
 * Don't try to crash or exploit the server.
 * Remember that people can play YouTube videos whenever they want. **Keep your volume down, headphone users.**
+
+## Moderation
+Chat rooms are for the most part unmoderated. However, if things get spambotty or break the rules above, the banhammer will come out.
+
+## Have Fun
+That's really it. Be a BonziBUDDY. Don't be a jerk. Enjoy the gorilla.
