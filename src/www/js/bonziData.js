@@ -453,7 +453,7 @@ var BonziData = {
 			{
 				type: "html",
 				text: "Hey kids, it's time for a Fun Fact&reg;!",
-				say: "Hey kids, it's time for a Fun Facts!"
+				say: "Hey kids, it's time for a Fun Facts!",
 			}
 		]
 	],
@@ -465,25 +465,22 @@ var BonziData = {
 				anim: "earth_fwd",
 				ticks: 15
 			},
+					
 			{
 				type: "text",
-				text: "Did you know that Uranus is 31,518 miles (50,724 km) in diameter?",
+				text: "FUN FACT: Did you know that Uranus is 31,518 miles (50,724 km) in diameter?",
 				say: "Fun Fact. Did you know that Yer Anus is 31 thousand 500 and 18 miles in diameter?",
 			},
 			{
 				type: "anim",
 				anim: "earth_back",
 				ticks: 15
-			},
-			{
-				type: "anim",
-				anim: "grin_fwd",
-				ticks: 15
 			}
 		], [
 			{
 				type: "text",
-				text: "Fun Fact: The skript kiddie of this site didn't bother checking if the text that goes into the dialog box is HTML code."
+				text: "FUN FACT: The skript kiddie of this site didn't bother checking if the text that goes into the dialog box is HTML code.",
+				say: "Fun Fact. The skript kiddie of this site didn't bother checking if the text that goes into the dialog box is HTML code."
 			},
 			{
 				type: "html",
@@ -496,8 +493,12 @@ var BonziData = {
 	event_list_fact_end: [
 		[
 			{
+				type: "anim",
+				anim: "grin_fwd",
+				ticks: 15,
 				type: "text",
-				text: "Wow! Wasn't that sure interesting?"
+				text: "Wow! Wasn't that sure interesting?",
+				say: "Wow! Wasn't that sure interesting, huh?"
 			}
 		]
 	]
