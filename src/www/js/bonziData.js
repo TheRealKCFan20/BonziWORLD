@@ -453,7 +453,7 @@ var BonziData = {
 			{
 				type: "html",
 				text: "Hey kids, it's time for a Fun Fact&reg;!",
-				say: "Hey kids, it's time for a Fun Facts!",
+				say: "Hey kids, it's time for a Fun Facts!"
 			}
 		]
 	],
