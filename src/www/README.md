@@ -95,4 +95,6 @@ Remember that people can play YouTube videos whenever they want. **Keep your vol
 * scss/sass
 * heyjoeway
 
-You guys are awesome. (And so are you, whoever's reading this!) There are also probably some others I forgot. If I remember you, I'll add you here.
+You guys are awesome. 
+* (And so are you, whoever's reading this!)
+* There are also probably some others I forgot. If I remember you, I'll add you here.
