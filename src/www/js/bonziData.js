@@ -279,7 +279,8 @@ var BonziData = {
 			},
 			{
 				type: "text",
-				text: "Too much lava!"
+				text: "Too much java!",
+				say: "Too Much Java! I like that! Nothing says old jokes quite like this!"
 			},
 			{
 				type: "anim",
@@ -321,7 +322,7 @@ var BonziData = {
 			},
 			{
 				type: "text",
-				text: "Sonic's WOAH WOAH WOAH."
+				text: "Sonic's-WOAH, WOAH, WOAH!"
 			}
 		],[
 			{
@@ -376,7 +377,7 @@ var BonziData = {
 			{
 				type: "text",
 				text: "Because everyone KNEADS it.",
-				say: "Because Everyone kneads it. Hah hah!
+				say: "Because Everyone kneads it. Hah hah!"
 			}
 		],[
 			{
@@ -579,7 +580,7 @@ BonziData.event_list_triggered = [
 	{
 		type: "text",
 		text: "NOTE: If you can't accept me, you need to check your file permissions. Thank you for being so understanding.",
-		say: "note. If you cant accept me, you need to check your file permissions. Thanks for your understanding."
+		say: "Note. If you cant accept me, you need to check your file permissions. Thanks for your understanding."
 	},
 	{
 		type: "idle"
