@@ -12,7 +12,7 @@ This includes but is not limited to:
 * Threats of Violence
 * Doxxing
 * And any other content.
-	* That is illegal in the United States.
+	* That is illegal in the United States of America.
 
 ## Chat Limits
 
