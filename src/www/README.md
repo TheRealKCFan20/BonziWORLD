@@ -15,7 +15,7 @@ Memes. Also because the creator already finished the BonziBUDDY portion of this 
 
 ## Why did the creator made this website?
 
-BonziWORLD was created by Joseph Judge in August 22nd, 2016 to July 10th, 2019.
+BonziWORLD was created by Joseph Judge in August 22nd, 2016 until the closedown in July 10th, 2019.
 
 ## How do I use it?
 
