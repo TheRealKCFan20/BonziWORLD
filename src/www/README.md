@@ -130,3 +130,7 @@ Email me there with any comments, questions, or concerns. Or whatever else. Meme
 [![Get it on Google Play.][gplay_banner]][gplay_url]
 
 Google Play and the Google Play logo are trademarks of Google Inc.
+
+## Copyright Notice
+
+© 2000-2026 Felipe Angelo Inc. All rights reserved.
