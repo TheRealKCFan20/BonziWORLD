@@ -95,14 +95,17 @@ Remember that people can play YouTube videos whenever they want. **Keep your vol
 * scss/sass
 * heyjoeway
 
-You guys are awesome. (And so are you, whoever's reading this!)
-   * There are also probably some others I forgot. If I remember you, I'll add you here.
+You guys are awesome. (And so are you, whoever's reading this!) There are also probably some others I forgot. If I remember you, I'll add you here.
 
 [shoutout1_url]: https://www.youtube.com/channel/UCpIJWYK1BB8LRA5eMZpQX-Q
+[shoutout2_url]: https://soundcloud.com/hexadecimalofficial
 ## The Meme Crew
 
 * "those three things who came on my app at 2 in the morning"
 * [FoenixGamer][shoutout1_url]
+* [Hex][shoutout2_url]
+* kekilia
+* electimon
 
 If you want to be listed here just email me and I'll probably put you in the next version.
 
