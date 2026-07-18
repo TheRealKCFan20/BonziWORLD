@@ -111,6 +111,7 @@ If you want to be listed here just email me and I'll probably put you in the nex
 ### felipeangeloben@gmail.com
 
 Email me there with any comments, questions, or concerns. Or whatever else. Memes? Sure, throw those in too.
+* Be warned that I'm notoriously awful at checking my email though.
 
 ## App Banners
 
