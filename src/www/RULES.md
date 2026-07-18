@@ -9,12 +9,21 @@
 
 This includes but is not limited to: CSAM, threats of violence, doxxing, and any other content that is illegal in the United States.
 
+## Chat Limits
+
+* All strings are sanitized to get rid of any malicious HTML/JS/CSS. _Don't even try it, Only the creators can do it._
+* There is a 2500 character limit in public rooms and a 5000 limit in private rooms.
+	* Yes, the Navy Seals copypasta fits.
+* There is a 25 character limit on names.
+* A max of 8 people are allowed in a public lobby.
+    * After that, a new public room will be created.
+* A max of 30 people are allowed in private lobbies.
+
+
 ## General Behavior
 
-Don't spam. Repeated spam may result in a ban.
-
-Don't harass other users.
-
-Don't try to crash or exploit the server.
+* Don't spam. Repeated spam may result in a ban.
+* Don't harass other users.
+* Don't try to crash or exploit the server.
 
 Remember that people can play YouTube videos whenever they want. Keep your volume down, headphone users.
