@@ -107,7 +107,7 @@ You guys are awesome. (And so are you, whoever's reading this!) There are also p
 * kekilia
 * electimon
 
-If you want to be listed here just email me and I'll probably put you in the next version.
+If you want to be listed here, just email me and I'll probably put you in the next version.
 
 ## Contact me
 
