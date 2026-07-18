@@ -96,7 +96,7 @@ Remember that people can play YouTube videos whenever they want. **Keep your vol
 * heyjoeway
 
 You guys are awesome. (And so are you, whoever's reading this!)
-  * There are also probably some others I forgot. If I remember you, I'll add you here.
+   * There are also probably some others I forgot. If I remember you, I'll add you here.
 
 [shoutout1_url]: https://www.youtube.com/channel/UCpIJWYK1BB8LRA5eMZpQX-Q
 ## The Meme Crew
@@ -111,7 +111,7 @@ If you want to be listed here just email me and I'll probably put you in the nex
 ### felipeangeloben@gmail.com
 
 Email me there with any comments, questions, or concerns. Or whatever else. Memes? Sure, throw those in too.
-* Be warned that I'm notoriously awful at checking my email though.
+   * Be warned that I'm notoriously awful at checking my email though.
 
 ## App Banners
 
