@@ -11,7 +11,8 @@ This includes but is not limited to:
 * CSAM
 * Threats of Violence
 * Doxxing
-* And any other content that is illegal in the United States.
+* And any other content.
+	* That is illegal in the United States.
 
 ## Chat Limits
 
