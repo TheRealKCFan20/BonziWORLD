@@ -7,7 +7,11 @@
 
 ## Rules
 
-This includes but is not limited to: CSAM, threats of violence, doxxing, and any other content that is illegal in the United States.
+This includes but is not limited to: 
+* CSAM
+* threats of violence
+* doxxing
+* and any other content that is illegal in the United States.
 
 ## Chat Limits
 
