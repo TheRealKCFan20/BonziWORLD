@@ -13,6 +13,10 @@ BonziWORLD is a node.js and socket.io based chat client featuring everyone's mos
 
 Memes. Also because the creator already finished the BonziBUDDY portion of this project like a year in advance and was trying to find some way to put it to use.
 
+## Why did the creators made this website?
+
+BonziWORLD was created by Joseph Judge in August 22nd, 2016 to July 10th, 2019.
+
 ## How do I use it?
 
 1. Enter a nickname (under 25 characters). If you don't enter one, you'll be named "Anonymous".
