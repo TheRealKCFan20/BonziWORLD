@@ -97,3 +97,31 @@ Remember that people can play YouTube videos whenever they want. **Keep your vol
 
 You guys are awesome. (And so are you, whoever's reading this!)
 * There are also probably some others I forgot. If I remember you, I'll add you here.
+[shoutout1_url]: https://www.youtube.com/channel/UCpIJWYK1BB8LRA5eMZpQX-Q
+## The Meme Crew
+
+* "those three things who came on my app at 2 in the morning"
+* [FoenixGamer][shoutout1_url]
+
+If you want to be listed here just email me and I'll probably put you in the next version.
+
+## Contact me
+
+### felipeangeloben@gmail.com
+
+Email me there with any comments, questions, or concerns. Or whatever else. Memes? Sure, throw those in too.
+
+## App Banners
+
+[pc_banner]: ./img/app/desktop.png
+![Open on PC for the best experience. (bonziworld.com)][pc_banner]
+
+[chrome_banner]: ./img/app/chrome.png
+[chrome_url]: https://chrome.google.com/webstore/detail/bonziworld/naiglhkfakaaialhnjabkpaiihglgnmk
+[![Available in the Chrome Web Store.][chrome_banner]][chrome_url]
+
+[gplay_banner]: ./img/app/google-play-badge.png
+[gplay_url]: https://play.google.com/store/apps/details?id=com.jojudge.bonziworld
+[![Get it on Google Play.][gplay_banner]][gplay_url]
+
+Google Play and the Google Play logo are trademarks of Google Inc.
