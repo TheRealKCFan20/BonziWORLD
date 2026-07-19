@@ -59,6 +59,7 @@ class Bonzi {
 				<div class='bonzi_name'></div>
 					<div class='bonzi_placeholder'></div>
 				<div style='display:none' class='bubble'>
+                <span class='bubble-close'>&#x2715;</span>
 					<p class='bubble-content'></p>
 				</div>
 			</div>
@@ -78,8 +79,10 @@ class Bonzi {
 		this.$canvas	= $(this.selCanvas);
 		this.$dialog	= $(this.selDialog);
 		this.$dialogCont	= $(this.selDialogCont);
+        this.$dialogClose       = $(this.selElement + " > .bubble > .bubble-close");
 		this.$nametag	= $(this.selNametag);
 
+        this.$dialogClose.click(() => { this.cancel(); });
 		this.updateName();
 
 		$.data(this.$element[0], "parent", this);
