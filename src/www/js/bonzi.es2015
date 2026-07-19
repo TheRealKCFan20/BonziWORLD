@@ -245,8 +245,11 @@ class Bonzi {
 	}
 
 	clearDialog() {
-		this.$dialogCont.html("");
-		this.$dialog.hide();
+		var $dialog = this.$dialog;
+		var $cont = this.$dialogCont;
+		 $dialog.stop(true).fadeOut(200, function() {
+		 $cont.html("");
+	});
 	}
 
 	cancel() {
@@ -283,7 +286,7 @@ class Bonzi {
 
 	updateText() {
 		if (this.event.timer === 0) {
-			this.$dialog.css("display", "block");
+            this.$dialog.stop(true).fadeIn(200);
 			this.event.timer = 1;
 			this.talk(
 				this.event.cur().text,
@@ -443,7 +446,7 @@ class Bonzi {
 					webkitallowfullscreen="webkitallowfullscreen"
 					></${tag}>
 				`)
-			this.$dialog.show();
+			this.$dialog.stop(true).fadeIn(200);
 		}
 	}
 
