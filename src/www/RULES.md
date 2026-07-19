@@ -17,7 +17,7 @@ This includes but is not limited to:
 ## Chat Limits
 
 * All strings are sanitized to get rid of any malicious HTML/JS/CSS. _Don't even try it, Only the creators can do it._
-* There is a 2500 character limit in public rooms and a 5000 limit in private rooms.
+* There is a 2500 character limit in public room and a 5000 limit in private rooms.
 	* Yes, the Navy Seals copypasta fits.
 * There is a 25 character limit on names.
 * A max of 8 people are allowed in a public lobby.
