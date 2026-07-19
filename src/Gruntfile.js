@@ -198,6 +198,9 @@ config.md.www = {
 	files: [{
 		src: WWW_SRC + 'README.md',
 		dest: WWW_BUILD + "readme.html"
+	}, {
+		src: WWW_SRC + 'RULES.md',
+		dest: WWW_BUILD + "rules.html"
 	}]
 };
 
