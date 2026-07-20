@@ -10,7 +10,7 @@
 
 ## The Meme Crew
 
-* "those three shits who came on my app at 2 in the morning"
+* "those three things who came on my app at 2 in the morning"
 * [FoenixGamer][shoutout1_url]
 * [Hex][shoutout2_url]
 * kekilia
