@@ -68,7 +68,7 @@ Obviously no illegal shit. On top of that, there are a few limitations:
 	* Yes, the Navy Seals copypasta fits.
 * There is a 25 character limit on names.
 * A max of 8 people are allowed in a public lobby. After that, a new public room will be created. A max of 30 people are allowed in private lobbies.
-	* (Yeah, I know I changed the limit down from 15. With the limited screen space and processing power on mobile, this was part of the reason things were running so shitty.)
+	* (Yeah, I know the creator changed the limit down from 15. With the limited screen space and processing power on mobile, this was part of the reason things were running so long enough.)
 
 Remember that people can play YouTube videos whenever they want. **Keep your volume down, headphone users.** Chat rooms are for the most part unmoderated. If shit starts getting spambotty, I might start using my banhammer.
 
@@ -76,6 +76,7 @@ Remember that people can play YouTube videos whenever they want. **Keep your vol
 
 * ~~Simpleflips~~
 * Node.JS
+* npm
 * socket.io
 * sanitize-html
 * Grunt
@@ -88,8 +89,10 @@ Remember that people can play YouTube videos whenever they want. **Keep your vol
 * seedrandom
 * realfavicongenerator.net
 * Apache Cordova
-* ~~Crosswalk~~ RIP CROSSWALK v1.?.? - v1.4.2
+* ~~Crosswalk~~ RIP CROSSWALK 2016-2019
 * scss/sass
+* Ruby
+* Cordova (Optional)
 
 You guys are awesome. (And so are you, whoever's reading this!) There are also probably some others I forgot. If I remember you, I'll add you here.
 
@@ -97,7 +100,7 @@ You guys are awesome. (And so are you, whoever's reading this!) There are also p
 
 ## The Meme Crew
 
-[Moved the random shoutouts that people ask for to their own page.][memecrew_url] If you want to be listed here just email me and I'll probably put you in the next version.
+[Moved the random shoutouts that people ask for to their own page.][memecrew_url] If you want to be listed here, just email me and I'll probably put you in the next version.
 
 [github_url]: https://github.com/Joseph14078/BonziWORLD
 
@@ -111,7 +114,7 @@ Yep, BonziWORLD is on GitHub! Server and all! If you wanna poke around and see h
 
 ### bonzi@bonziworld.com
 
-Email me there with any comments, questions, or concerns. Or whatever else. Memes? Sure, throw those in too. Be warned that I'm notoriously awful at checking my email though.
+Email me there with any comments, questions, or concerns. Or whatever else. Memes? Sure, throw those in too. _Be warned that I'm notoriously awful at checking my email though._
 
 ## App Banners
 
