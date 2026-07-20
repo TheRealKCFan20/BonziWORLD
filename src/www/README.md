@@ -116,6 +116,15 @@ You guys are awesome. (And so are you, whoever's reading this!) There are also p
 
 If you want to be listed here, just email me and I'll probably put you in the next version.
 
+[github_url]: https://github.com/felipeangelo-create/BonziWORLD
+
+## GitHub
+
+Yep, BonziWORLD is on GitHub! Server and all! If you wanna poke around and see how things work, go check it out! License is MIT, so feel free to use the code for whatever. Just make sure you give proper credit.
+
+[GitHub Repository][github_url]
+
+
 ## Contact me
 
 ### felipeangeloben@gmail.com
