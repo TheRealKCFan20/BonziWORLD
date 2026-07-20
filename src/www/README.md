@@ -25,6 +25,7 @@ BonziWORLD was created by Joseph Judge in August 22nd, 2016 until the closedown 
 	* If you enter a room ID that doesn't exist, you will be placed in a private room which can only be joined by people you share the ID with.
 4. Be a BonziBUDDY.
 5. Be a Anonymous.
+	* We are legion, We do not forgive.
 6. Be a "fuG".
 
 ## What are the chat commands?
