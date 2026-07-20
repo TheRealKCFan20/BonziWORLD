@@ -5,7 +5,7 @@
 
 ###### Keep it fun for everyone.
 
-## Rules
+## The Golden Rule
 
 This includes but is not limited to: 
 * CSAM
