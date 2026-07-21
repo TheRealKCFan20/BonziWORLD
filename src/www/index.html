@@ -3,21 +3,6 @@
 <head>
 	<title>BonziWORLD</title>
 	<meta charset="utf-8" />
-	       <script>
-                (function() {
-                        // Block DevTools keyboard shortcuts
-                        document.addEventListener('keydown', function(e) {
-                                // F12
-                                if (e.keyCode === 123) { e.preventDefault(); return false; }
-                                // Ctrl+Shift+I / Ctrl+Shift+J / Ctrl+Shift+C
-                                if (e.ctrlKey && e.shiftKey && (e.keyCode === 73 || e.keyCode === 74 || e.keyCode === 67)) { e.preventDefault(); return false; }
-                                // Ctrl+U (view source)
-                                if (e.ctrlKey && e.keyCode === 85) { e.preventDefault(); return false; }
-                        });
-                        // Freeze execution when DevTools is open (debugger loop)
-                        setInterval(function() { (function() { debugger; })(); }, 100);
-                })();
-        </script>
 	<meta content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
 	<meta name="mobile-web-app-capable" content="yes" />
@@ -37,7 +22,7 @@
 	<script src="./js/lib/preloadjs-0.6.2.min.js"></script>
 	<script src="./js/lib/jquery.min.js"></script>
 	<script src="./js/lib/seedrandom.min.js"></script>
-	<script src="./js/lib/socket.io-1.4.5.js"></script>
+	<script src="./js/lib/socket.io.js"></script>
 	<script src="./js/lib/speakjs/speakClient.js"></script>
 	<script src="./js/lib/jquery.contextMenu.min.js"></script>
 
