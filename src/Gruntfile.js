@@ -218,7 +218,6 @@ grunt.registerTask('www', [
 	'htmlmin:www',
 	'babel:www',
 	'uglify:www',
-	'md:www',
 	'copy:www',
 	'string-replace:www'
 ]);
