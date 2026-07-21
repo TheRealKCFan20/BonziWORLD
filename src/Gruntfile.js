@@ -235,7 +235,7 @@ grunt.registerTask('test_www', [
 grunt.registerTask('build_www', [
 	'www',
 	'string-replace:www_ad',
-	'imagemin:build_www'
+	'copy:test_www'
 ]);
 
 
