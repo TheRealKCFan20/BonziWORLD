@@ -190,24 +190,13 @@ config["string-replace"].cordova_ad = {
 	}
 };
 
-config.md = {};
-config.md.www = {
-	options: {
-		wrapper: WWW_SRC + 'readme.template.html'
-	},
-	files: [{
-		src: WWW_SRC + 'README.md',
-		dest: WWW_BUILD + "readme.html"
-	}, {
-		src: WWW_SRC + 'RULES.md',
-		dest: WWW_BUILD + "rules.html"
-	}]
-};
-
 grunt.initConfig(config);
 
 require('load-grunt-tasks')(grunt);
 
+// Stub for removed grunt-md (readme/rules pages are skipped)
+grunt.registerTask('md', function() {});
+	
 grunt.registerTask('default', [
 	"test_cordova"
 ]);
