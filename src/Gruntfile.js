@@ -205,7 +205,8 @@ grunt.registerTask('md-build', 'Convert markdown files into HTML pages', functio
 	var fs = require('fs');
 	var pages = [
 		{ md: WWW_SRC + 'README.md', tmpl: WWW_SRC + 'readme.template.html', dest: WWW_BUILD + 'readme.html' },
-		{ md: WWW_SRC + 'RULES.md',  tmpl: WWW_SRC + 'rules.template.html',  dest: WWW_BUILD + 'rules.html' }
+		{ md: WWW_SRC + 'RULES.md',  tmpl: WWW_SRC + 'rules.template.html',  dest: WWW_BUILD + 'rules.html' },
+		{ md: WWW_SRC + 'CHANGELOG.md',  tmpl: WWW_SRC + 'changelog.template.html',  dest: WWW_BUILD + 'changelog.html' }
 	];
 	pages.forEach(function(p) {
 		var content = marked.parse(fs.readFileSync(p.md, 'utf8'));
