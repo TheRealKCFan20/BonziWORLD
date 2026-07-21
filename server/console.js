@@ -62,7 +62,12 @@ let commands = {
 }
 
 exports.listen = function() {
-    process.openStdin().addListener("data", function(input) {
+    // Only attach stdin listener when running interactively (TTY).
+    // In Replit's workflow runner stdin is a closed pipe; calling
+    // process.openStdin() there causes an immediate EOF that exits Node.
+    if (!process.stdin.isTTY) return;
+    process.stdin.resume();
+    process.stdin.addListener("data", function(input) {
         try {
             let list = input.toString().trim().split(" ");
             let command = list[0].toLowerCase();
