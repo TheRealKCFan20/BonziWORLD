@@ -280,7 +280,12 @@ var BonziData = {
 			{
 				type: "text",
 				text: "Too much java!",
-				say: "Too Much Java! I like that! Nothing says old jokes quite like this!"
+				say: "Too Much Java! I like that! Nothing says the old jokes quite like this!"
+			},
+			{
+				type: "text",
+				text: "...",
+				say: "To be honest, I think the 3 dots so i can tell the jokes and facts! Doesn't it look great though?"
 			},
 			{
 				type: "anim",
@@ -367,7 +372,7 @@ var BonziData = {
 			},
 			{
 				type: "text",
-				text: "I still don't know."
+				text: "I still even don't know."
 			}
 		],[
 			{
