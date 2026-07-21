@@ -79,7 +79,7 @@ config.imagemin.build_www = {
 config.babel = {};
 config.babel.options = {
 	sourceMap: true,
-	presets: ['babel-preset-es2015']
+	presets: ['@babel/preset-env']
 };
 config.babel.www = {
 	files: [{
@@ -211,6 +211,21 @@ require('load-grunt-tasks')(grunt);
 grunt.registerTask('default', [
 	"test_cordova"
 ]);
+
+grunt.registerTask('md-build', 'Convert markdown files into HTML pages', function() {
+	var marked = require('marked');
+	var fs = require('fs');
+	var pages = [
+		{ md: WWW_SRC + 'README.md', tmpl: WWW_SRC + 'readme.template.html', dest: WWW_BUILD + 'readme.html' },
+		{ md: WWW_SRC + 'RULES.md',  tmpl: WWW_SRC + 'rules.template.html',  dest: WWW_BUILD + 'rules.html' }
+	];
+	pages.forEach(function(p) {
+		var content = marked.parse(fs.readFileSync(p.md, 'utf8'));
+		var html = fs.readFileSync(p.tmpl, 'utf8').replace('<%= content %>', content);
+		fs.writeFileSync(p.dest, html);
+		grunt.log.ok('Created ' + p.dest);
+	});
+});
 
 grunt.registerTask('www', [
 	'clean:www_pre',
