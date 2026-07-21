@@ -126,7 +126,7 @@ Yep, BonziWORLD is on GitHub! Server and all! If you wanna poke around and see h
 
 ## Will the new updates coming soon though?
 
-Don't worry, Try and wait for new updates. _Please wait later._
+Yep! Try and wait for new updates in the future. _Please wait later._
 
 ## Contact me
 
