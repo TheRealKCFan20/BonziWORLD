@@ -196,6 +196,7 @@ require('load-grunt-tasks')(grunt);
 
 // Stub for removed grunt-md (readme/rules pages are skipped)
 grunt.registerTask('md', function() {});
+
 	
 grunt.registerTask('default', [
 	"test_cordova"
