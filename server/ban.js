@@ -7,14 +7,13 @@ const io = require('./index.js').io;
 let bans;
 
 exports.init = function() {
-    fs.writeFile("./bans.json", "{}", { flag: 'wx' }, function(err) {
-        if (!err) console.log("Created empty bans list.");
-        try {
-            bans = require("./bans.json");
-        } catch(e) {
-            throw "Could not load bans.json. Check syntax and permissions.";
-        }
-    });
+    try {
+        let content = fs.readFileSync("./bans.json", "utf8").trim();
+        bans = content ? JSON.parse(content) : {};
+    } catch(e) {
+        bans = {};
+    }
+    fs.writeFileSync("./bans.json", JSON.stringify(bans));
 };
 
 exports.saveBans = function() {
