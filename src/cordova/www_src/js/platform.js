@@ -1,3 +1,4 @@
+var isChromeApp = false;
 var isMobileApp = true;
 var isApp = true;
 var isDesktop = false;
@@ -21,7 +22,7 @@ $(function() {
 		type: "GET",					// AJAX?!?!
 		cache: false					// GRAND GET
 	}).fail(function() { 				// GRAND GET?!?!
-		$("#page_error").show();		// WHAT THE SHIT "GRAND GET"
+		$("#page_error").show();		// WHAT THE, "GRAND GET"?!?!?!?
 	});									// OHHHH
 
 	$(".app_showcase").append(
