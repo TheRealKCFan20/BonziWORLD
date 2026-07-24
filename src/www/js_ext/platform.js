@@ -1,10 +1,6 @@
-var isChromeApp = false;
 var isMobileApp = false;
 var isApp = false;
 var isDesktop = navigator.userAgent.match(/(iPad)|(iPhone)|(iPod)|(android)|(webOS)/i) == null;
-
-var isChromeBrowser = /Chrome/.test(navigator.userAgent) && /Google Inc/.test(navigator.vendor);
-var urlChrome = "https://chrome.google.com/webstore/detail/bonziworld/naiglhkfakaaialhnjabkpaiihglgnmk";
 
 var isiOS = navigator.userAgent.match(/(iPad)|(iPhone)|(iPod)/i) != null;
 var urlGPlay = "https://play.google.com/store/apps/details?id=com.jojudge.bonziworld";
@@ -34,14 +30,6 @@ $(function() {
 
   if (!supported) {
     $("#page_unsupp").show();
-  }
-
-  if (isChromeBrowser && isDesktop) {
-    $(".app_showcase").append(
-      '<a class="app_chrome" href="' + urlChrome + '">' +
-        '<img src="./img/app/chrome.png" alt="Chrome App" />' +
-      '</a>'
-    );
   }
 
   if (!isiOS) {
