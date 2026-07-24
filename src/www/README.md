@@ -139,10 +139,6 @@ Email me there with any comments, questions, or concerns. Or whatever else. Meme
 [pc_banner]: ./img/app/desktop.png
 ![Open on PC for the best experience. (bonziworld.com)][pc_banner]
 
-[chrome_banner]: ./img/app/chrome.png
-[chrome_url]: https://chrome.google.com/webstore/detail/bonziworld/naiglhkfakaaialhnjabkpaiihglgnmk
-[![Available in the Chrome Web Store.][chrome_banner]][chrome_url]
-
 [gplay_banner]: ./img/app/google-play-badge.png
 [gplay_url]: https://play.google.com/store/apps/details?id=com.jojudge.bonziworld
 [![Get it on Google Play.][gplay_banner]][gplay_url]
