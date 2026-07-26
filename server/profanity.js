@@ -1,4 +1,4 @@
-// Profanity filter — replaces severe swear words with "beep".
+// The Profanity filter: Replaces severe swear words with "beep".
 // Mild language (damn, hell, crap, ass, dang, etc.) is intentionally allowed.
 
 const BAD_WORDS = [
