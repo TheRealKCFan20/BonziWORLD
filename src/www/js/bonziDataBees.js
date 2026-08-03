@@ -4,6 +4,11 @@ BonziData.event_list_bees = [
 		text: "According to all known laws"
 	},
 	{
+		type: "anim",
+		anim: "praise_fwd",
+		ticks: 15
+	},
+	{
 		type: "text",
 		text: "of aviation,"
 	},
@@ -52,6 +57,11 @@ BonziData.event_list_bees = [
 		text: "Wait... What?"
 	},
 	{
+		type: "anim",
+		anim: "praise_back",
+		ticks: 15
+	},
+	{
 		type: "text",
 		text: "Were you expecting me to say the entire Bee Movie script?"
 	},
@@ -66,21 +76,5 @@ BonziData.event_list_bees = [
 	{
 		type: "text",
 		text: "Screw this!"
-	},
-		{
-		type: "text",
-		text: "But,"
-	},
-		{
-		type: "text",
-		text: "I skipped until the end script of bee movie."
-	},
-		{
-		type: "text",
-		text: "Like this!"
-	},
-		{
-		type: "text",
-		text: "You are in a coma. This is our only way to communicate. Please wake up."
 	}
 ];
