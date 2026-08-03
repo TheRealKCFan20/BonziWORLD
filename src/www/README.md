@@ -59,7 +59,8 @@ If you see any brackets, they indicate a placeholder. Don't type them in.
 	* Don't ask why this was implemented. There's no answer.
 	* You can also right click on people to do the same thing.
 * `/notice [name]` - woah, what's this?
-* 	* You can also right click on people to do the same thing as well.
+    * Don't ask why this was implemented too. There's no answer to do that.
+    * You can also right click on people to do the same thing as well.
 	* Works pretty much the same as /stink, right click and all.
 * `/triggered` - The best copypasta.
 * `/linux` - I'd just like to interject for a moment.
