@@ -111,7 +111,7 @@ Remember that people can play YouTube videos whenever they want. **Keep your vol
 * duckduckstab1
 * Rafafrias2012
 
-You guys are awesome. (And so are you, whoever's reading this!) There are also probably some others I forgot. If I remember you, I'll add you here.
+The dependencies and you guys are awesome. _(And so are you, whoever's reading this!)_ There are also probably some others I forgot. If I remember you, I'll add you here.
 
 [shoutout1_url]: https://www.youtube.com/channel/UCpIJWYK1BB8LRA5eMZpQX-Q
 [shoutout2_url]: https://soundcloud.com/hexadecimalofficial
