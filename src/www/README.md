@@ -81,8 +81,10 @@ No illegal content. On top of that, there are a few limitations:
 	* Yes, the Navy Seals copypasta fits.
 * There is a 25 character limit on names.
     * Do you know that your name fits? Yeah, I know that.
-* A max of **8 people** are allowed in a public lobby. After that, a new public room will be created. A max of **30 people** are allowed in private lobbies.
+* A max of **8 people** are allowed in a public lobby.
+    *  After that, a new public room will be created.
 	* Yeah, I know the creator changed the limit down from 15. With the limited screen space and processing power on mobile, this was part of the reason things were running so long enough.
+* A max of **30 people** are allowed in private lobbies.
 
 Remember that people can play YouTube videos whenever they want. **Keep your volume down, headphone users.** Chat rooms are for the most part unmoderated. However, if things get spambotty or break the rules above, I might start using my banhammer.
 
