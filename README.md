@@ -38,7 +38,7 @@ node index.js
 
 ### Server (nginx)
 ```
-<a href="https://www.youtube.com/watch?v=krcYPrjIDzU" alt="Tutorial" title="Tutorial">Tutorial</a>
+[Tutorial](https://www.youtube.com/watch?v=krcYPrjIDzU)
 ```
 After this, BonziWORLD will be accessible on port 3000. (http://localhost:3000/)
 
