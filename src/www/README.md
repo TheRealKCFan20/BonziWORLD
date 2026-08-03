@@ -1,6 +1,8 @@
 [logo]: ./img/readme/logo.png
 ![BonziWORLD logo. The creator may have taken "inspiration" from Windows XP.][logo]
 
+# BonziWORLD
+
 ###### Leading the industry in gorilla-based chat clients.
 
 ## What is this?
