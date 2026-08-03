@@ -21,16 +21,17 @@ BonziWORLD was created by Joseph Judge in August 22nd, 2016 until the closedown 
 
 ## How do I use it?
 
-1. Enter a nickname (under 25 characters). If you don't enter one, you'll be named "Ananymass". (we r legion du nut 4 get ever)
+1. Enter a nickname (under 25 characters). If you don't enter one, you'll be named "Ananymass".
 	* Ananymass was included in BonziSPHERE and the other servers.
-3. Optionally, enter a room ID. If you want to join someone else, their room ID will be in the bottom-right corner of the screen.
+3. Enter a room ID.
+    * If you want to join someone else, their room ID will be in the bottom-right corner of the screen.
 	* If you enter a room ID that doesn't exist, you will be placed in a private room which can only be joined by people you share the ID with.
-4. Be a BonziBUDDY.
+5. Be a BonziBUDDY.
      * Since that's good idea, to be named as "BonziBUDDY".
-5. Be a Anonymous.
+6. Be a Anonymous.
 	* We are legion, We do not forgive.
-6. Be a "fuG".
-7. Be a BonziWORLD.
+7. Be a "fuG".
+8. Be a BonziWORLD.
 
 ## What are the chat commands?
 
