@@ -92,7 +92,7 @@ Remember that people can play YouTube videos whenever they want. **Keep your vol
 * Grunt
 * Winston ~~(hi there)~~
 * Express
-* Create.js (Easel.js && Preload.js)
+* Create.js (Easel.js & Preload.js)
 * jQuery
 * jquery-contextmenu
 * speak.js
@@ -102,6 +102,11 @@ Remember that people can play YouTube videos whenever they want. **Keep your vol
 * ~~Crosswalk~~ RIP CROSSWALK v1.?.? - v1.4.2
 * scss/sass
 * heyjoeway
+* dependabot
+* Hackfront-ITA
+* siobhan-saoirse
+* duckduckstab1
+* Rafafrias2012
 
 You guys are awesome. (And so are you, whoever's reading this!) There are also probably some others I forgot. If I remember you, I'll add you here.
 
