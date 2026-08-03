@@ -535,12 +535,12 @@ class Bonzi {
 		this.runSingleEvent(
 			[{
 				type: "text",
-				text: `*Notices ${target}'s BonziExistingSoftware™*`,
+				text: `*notices ${target}'s Bonzi Existing Software™*`,
 				say: `notices ${target}s bonzi existing software`
 			}, {
 				type: "text",
-				text: "Oh my Woah, What's this?",
-				say: "oh my woah, what this?"
+				text: "oh my woah, wat dis?",
+				say: "oh my woah, what diss?"
 			}]
 		);
 	}
