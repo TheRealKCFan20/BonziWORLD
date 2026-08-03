@@ -37,6 +37,10 @@ node index.js
 ```
 After this, BonziWORLD will be accessible on port 3000. (http://localhost:3000/)
 
+### Server (nginx)
+<pre><span><code><a href="https://www.youtube.com/watch?v=krcYPrjIDzU" alt="Tutorial" title="Tutorial">Tutorial</a>
+</code></span></pre>
+
 ## Disclaimer
 I'm not responsible if you screw up anything with your computer while setting this up. I have no idea how you would, but someone will find a way. I also will not provide support for installing dependencies. If you have everything installed properly, the above commands will work. (Like seriously, How can you even do that?)
 
