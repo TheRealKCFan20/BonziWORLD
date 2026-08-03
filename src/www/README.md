@@ -19,7 +19,7 @@ BonziWORLD was created by Joseph Judge in August 22nd, 2016 until the closedown 
 
 ## How do I use it?
 
-1. Enter a nickname (under 25 characters). If you don't enter one, you'll be named "Ananymass".
+1. Enter a nickname (under 25 characters). If you don't enter one, you'll be named "Ananymass". (we r legion du nut 4 get ever)
 	* Ananymass was included in BonziSPHERE and the other servers.
 3. Optionally, enter a room ID. If you want to join someone else, their room ID will be in the bottom-right corner of the screen.
 	* If you enter a room ID that doesn't exist, you will be placed in a private room which can only be joined by people you share the ID with.
@@ -49,8 +49,8 @@ If you see any brackets, they indicate a placeholder. Don't type them in.
 	* black
 	* pink
 	* If you don't type a color, you will be given one at random.
-* `/joke` - Tell a horribly written joke.
-* `/fact` - Tell a horribly written "fact".
+* `/joke` - Tell a horribly written jokes.
+* `/fact` - Tell a horribly written "facts".
 * `/backflip` - Do a backflip.
 	* Do '/backflip swag' for extra swag.
 * `/youtube [video ID]` - Play a YouTube video.
@@ -66,8 +66,8 @@ If you see any brackets, they indicate a placeholder. Don't type them in.
 * `/linux` - I'd just like to interject for a moment.
 * `/intro` - Hi, my name is BonziBUDDY, and this is my website.
 * [`/bees`](https://web.archive.org/web/20160910173949/http://bees.bonziworld.com/) - According to all known laws of aviation, there is no way a bee should be able to fly.
-* `/vaporwave` - AESTHETIC
-* `/unvaporwave` - AESTHETIC IS GONE
+* `/vaporwave` - ＡＥＳＴＨＥＴＩＣ
+* `/unvaporwave` - ＡＥＳＴＨＥＴＩＣ ＩＳ ＧＯＮＥ
 
 ## Are there any rules?
 
@@ -77,9 +77,9 @@ No illegal content. On top of that, there are a few limitations:
 * There is a 2500 character limit in public room and a 5000 limit in private rooms.
 	* Yes, the Navy Seals copypasta fits.
 * There is a 25 character limit on names.
-* A max of 8 people are allowed in a public lobby.
-    * After that, a new public room will be created.
-* A max of 30 people are allowed in private lobbies.
+* A max of **8 people** are allowed in a public lobby. After that, a new public room will be created.
+	* Yeah, I know the creator changed the limit down from 15. With the limited screen space and processing power on mobile, this was part of the reason things were running so long enough.
+* A max of **30 people** are allowed in private lobbies.
 
 Remember that people can play YouTube videos whenever they want. **Keep your volume down, headphone users.** Chat rooms are for the most part unmoderated. However, if things get spambotty or break the rules above, I might start using my banhammer.
 
