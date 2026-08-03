@@ -1,17 +1,8 @@
-[logo]: src/www/img/readme/logo.png
-![BonziWORLD logo. The creator may have taken "inspiration" from Windows XP.][logo]
-
-###### Leading the industry in gorilla-based chat clients.
-
-## What is this? A fork thing?
+## BonziWORLD
 
 This respository is a fork of the [original](https://github.com/heyjoeway/BonziWORLD), [patched](https://github.com/duckduckstab1/BonziWORLD-patched), and [fully patched](https://github.com/Rafafrias2012/BonziWORLD-patched). It will be updated frequently to be fully secure and fix problems with either the server or the client.
 
-## What did the project disconnected by?
-
 This project was discontinued by heyjoeway due to his time being taken up by other responsibilities. _Thanks for all the laughs and memes along the way._
-
-## What did you do this source code, exactly?
 
 All the source code for the server and client is publically available here. If you want to run your own BonziWORLD, by all means go ahead. Do whatever you'd like with this code. _Just try to put me somewhere in the credits._
 
@@ -21,6 +12,7 @@ All the source code for the server and client is publically available here. If y
 - Sass
 - Git
 - Cordova (Optional)
+- Grunt
 
 ## Setup
 In a terminal and/or command prompt, navigate to where you'd like BonziWORLD to be placed and run the following:
