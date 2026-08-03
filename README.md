@@ -37,9 +37,8 @@ node index.js
 ```
 
 ### Server (nginx)
-```
-[Tutorial](https://www.youtube.com/watch?v=krcYPrjIDzU)
-```
+For an example nginx configuration and a step-by-step tutorial on using nginx as a reverse proxy for a Node.js app, see: [How To Set Up Nginx as a Reverse Proxy for Node.js on Ubuntu 20.04 — DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-as-a-reverse-proxy-on-ubuntu-20-04)
+
 After this, BonziWORLD will be accessible on port 3000. (http://localhost:3000/)
 
 ## Disclaimer
