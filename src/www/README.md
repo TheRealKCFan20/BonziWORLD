@@ -53,7 +53,7 @@ If you see any brackets, they indicate a placeholder. Don't type them in.
 	* pink
 	* If you don't type a color, you will be given one at random.
 * `/joke` - Tell a horribly written jokes.
-* `/fact` - Tell a horribly written "facts".
+* `/fact` - Tell a horribly written facts.
 * `/backflip` - Do a backflip.
 	* Do '/backflip swag' for extra swag.
 * `/youtube [video ID]` - Play a YouTube video.
@@ -67,7 +67,7 @@ If you see any brackets, they indicate a placeholder. Don't type them in.
 	* Works pretty much the same as /stink, right click and all.
 * `/triggered` - The best copypasta.
 * `/linux` - I'd just like to interject for a moment.
-* `/intro` - Hi, my name is BonziBUDDY, and this is my website.
+* `/intro` - Hi, my name is BonziBUDDY, and this is the creator's website that creator own.
 * [`/bees`](https://web.archive.org/web/20160910173949/http://bees.bonziworld.com/) - According to all known laws of aviation, there is no way a bee should be able to fly.
 * `/vaporwave` - ＡＥＳＴＨＥＴＩＣ
 * `/unvaporwave` - ＡＥＳＴＨＥＴＩＣ ＩＳ ＧＯＮＥ
