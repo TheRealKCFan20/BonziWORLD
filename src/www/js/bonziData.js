@@ -631,7 +631,7 @@ BonziData.event_list_linux = [
 BonziData.event_list_intro = [
 	{
 		type: "text",
-		text: "Hi, my name is BonziBUDDY, and this is my website. I came here with my pal called Peedy. Everything in here has an ad and a fact. One thing I've learned after 19 years, you never know what is gonna give you some malware."
+		text: "Hi, my name is BonziBUDDY, and this is the creator's website that creator own. I came here with my pal called Peedy. Everything in here has an ad and a fact. One thing I've learned after 19 years, you never know what is gonna give you some malware."
 	},
 
 ];
