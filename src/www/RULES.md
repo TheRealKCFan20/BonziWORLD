@@ -23,7 +23,7 @@ This includes but is not limited to:
     * Do you know that your name fits? Yeah, I know that.
 * A max of **8 people** are allowed in a public lobby. After that, a new public room will be created.
 	* Yeah, I know the creator changed the limit down from 15. With the limited screen space and processing power on mobile, this was part of the reason things were running so long enough.
-* A max of 30 people are allowed in private lobbies.
+* A max of **30 people** are allowed in private lobbies.
 
 
 ## General Behavior
