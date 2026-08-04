@@ -397,6 +397,14 @@ var BonziData = {
 				type: "text",
 				text: "I'm a comedic genius, I know."
 			},
+			{
+				type: "text",
+				text: "Why does people like cereal?"
+			},
+			{
+				type: "text",
+				text: "Cereal is for noobies."
+			},
 		]
 	],
 	event_list_joke_end: [
