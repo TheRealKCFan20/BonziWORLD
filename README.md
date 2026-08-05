@@ -1,6 +1,6 @@
-# BonziWORLD Patched
+# BonziWORLD Fully Patched
 
-This respository is a fork of the [original](https://github.com/heyjoeway/BonziWORLD). It will be updated frequently to be fully secure and fix problems with either the server or the client.
+This respository is a fork of the [original](https://github.com/heyjoeway/BonziWORLD) and [patched](https://github.com/duckduckstab1/BonziWORLD-patched). It will be updated frequently to be fully secure and fix problems with either the server or the client.
 
 This project was discontinued by heyjoeway due to his time being taken up by other responsibilities.
 
@@ -16,7 +16,7 @@ All the source code for the server and client is publically available here. If y
 ## Setup
 In a terminal/command prompt, navigate to where you'd like BonziWORLD to be placed and run the following:
 ```
-git clone https://github.com/Seamusmario/BonziWORLD-patched
+git clone https://github.com/Rafafrias2012/BonziWORLD-patched
 cd BonziWORLD-patched
 ```
 
