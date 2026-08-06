@@ -18,7 +18,7 @@ function loadTest() {
 			login();
 			loadTestInterval.clear();
 		} catch(e) {}
-	}, 100);
+	}, 1000);
 }
 
 function login() {
