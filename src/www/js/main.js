@@ -34,7 +34,7 @@ function login() {
 }
 
 $(function() {
-	$("#login_go").click(login);
+	$("#login_go").click(loadTest);
 	
     $("#login_name").val(localStorage.getItem("bonzi_nickname") || "");
 
