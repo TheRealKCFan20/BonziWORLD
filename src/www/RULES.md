@@ -11,12 +11,13 @@ This includes but is not limited to:
 * CSAM
 * Threats of Violence
 * Doxxing
-* And any other content.
+* And any other content
 	* That is illegal in the United States of America.
 
 ## Chat Limits
 
-* All strings are sanitized to get rid of any malicious HTML/JS/CSS. _Don't even try it, Only the contributors and/or no contributors can do itself._
+* All strings are sanitized to get rid of any malicious HTML/JS/CSS.
+    * Don't even try it, Only the contributors and/or no contributors can do itself.
 * There is a 2500 character limit in public room and a 5000 limit in private rooms.
 	* Yes, the Navy Seals copypasta fits.
 * There is a 25 character limit on names.
