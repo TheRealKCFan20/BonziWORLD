@@ -435,9 +435,9 @@ class Bonzi {
 			var tag = "iframe";
 			this.$dialogCont
 				.html(`
-					<${tag} type="text/html" width="480" height="270" 
+					<${tag} type="text/html" width="173" height="173" 
 					src="https://www.youtube.com/embed/${vid}?autoplay=1" 
-					style="width:480px;height:270px"
+					style="width:173px;height:173px"
 					frameborder="0"
 					allowfullscreen="allowfullscreen"
 					mozallowfullscreen="mozallowfullscreen"
