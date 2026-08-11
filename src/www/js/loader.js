@@ -8,6 +8,7 @@ var loadNeeded = [
 	"bonziPurple",
 	"bonziRed",
 	"bonziPink",
+	"unbojih",
 	"topjej"
 ];
 
@@ -27,6 +28,7 @@ function loadBonzis(callback) {
 		{id: "bonziPurple", src:"./img/bonzi/purple.png"},
 		{id: "bonziRed", src:"./img/bonzi/red.png"},
 		{id: "bonziPink", src:"./img/bonzi/pink.png"},
+		{id: "unbojih", src:"./img/bonzi/unbojih.png"},
 		{id: "topjej", src:"./img/misc/topjej.png"}
 	]);
 	loadQueue.on("fileload", function(e) {

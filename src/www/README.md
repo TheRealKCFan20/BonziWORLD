@@ -51,6 +51,7 @@ If you see any brackets, they indicate a placeholder. Don't type them in.
 	* purple
 	* black
 	* pink
+	* unbojih
 	* If you don't type a color, you will be given one at random.
 * `/joke` - Tell a horribly written jokes.
 * `/fact` - Tell a horribly written facts.

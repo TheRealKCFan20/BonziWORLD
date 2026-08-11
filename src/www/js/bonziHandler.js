@@ -16,6 +16,7 @@ window.BonziHandler = new (function() {
 			"purple",
 			"red",
 			"pink",
+			"unbojih",
 			"pope"
 		];
 
