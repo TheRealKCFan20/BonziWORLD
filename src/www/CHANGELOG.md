@@ -5,6 +5,10 @@
 
 ###### Every meme, every regression, every late-night fix.
 
+## Version 1.6.1a
+
+The new color has been added!
+
 ## Version 1.6.1
 
 The changelog has been started!
