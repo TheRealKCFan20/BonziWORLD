@@ -37,7 +37,7 @@ npm install
 node index.js
 ```
 ### Server (nginx)
-<pre><span><code>Check out this <a href="https://www.youtube.com/watch?v=krcYPrjIDzU" alt="Tutorial" title="Tutorial">Tutorial</a> below.
+<pre><span><code>Check out this <a href="https://www.youtube.com/watch?v=krcYPrjIDzU" alt="Tutorial" title="tutorial">tutorial</a> below.
 </code></span></pre>
 
 After that, BonziWORLD will be accessible on port 3000. (http://localhost:3000/)
