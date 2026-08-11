@@ -4,7 +4,7 @@ This repository is a fork of the [original](https://github.com/heyjoeway/BonziWO
 
 This project was discontinued by heyjoeway due to his time being taken up by other repositories.
 
-All the source code for the server and client is publicly available here. If you want to run your own BonziWORLD, by all means go ahead. Do whatever you'd like with this code. _Just try to put me some[...]
+All the source code for the server and client is publicly available here. If you want to run your own BonziWORLD, by all means go ahead. Do whatever you'd like with this code. _Just try to put me somewhere in the credits._
 
 ## Dependencies
 - Node.js and npm
@@ -65,7 +65,7 @@ Notes:
 - The build command above uses `npx grunt` so you don't need a global Grunt CLI install on Render. If your repo defines npm scripts to build the client or start the server, you can replace the Build/Start commands with those scripts.
 - If you need HTTPS, custom domains, or background workers, Render provides those features in the service settings.
 
-After that, BonziWORLD will be accessible on port 3000. (http://localhost:3000/)
+After this, BonziWORLD will be accessible on port 3000. (http://localhost:3000/)
 
 ## Disclaimer
 I'm not responsible if you screw up anything with your computer while setting this up. I have no idea how you would, but someone will find a way. I also will not provide support for installing depende[...]
