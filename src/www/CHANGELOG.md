@@ -7,4 +7,4 @@
 
 ## Version 1.6.1
 
-The changelog has launched.
+The changelog has been started!
