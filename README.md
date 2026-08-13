@@ -4,7 +4,7 @@ This respository is a fork of the [original](https://github.com/heyjoeway/BonziW
 
 This project was discontinued by heyjoeway due to his time being taken up by other responsibilities. ~~Thanks for all the laughs and memes along the way.~~
 
-All the source code for the server and client is publically available here. If you want to run your own BonziWORLD, by all means go ahead. Do whatever you'd like with this code. Just try to put me somewhere in the credits.
+All the source code for the server and client is publically available here. If you want to run your own BonziWORLD, by all means go ahead. Do whatever you'd like with this code. _Just try to put me somewhere in the credits._
 
 ## Dependencies
 - Node.js and npm
