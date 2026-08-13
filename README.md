@@ -18,7 +18,7 @@ All the source code for the server and client is publically available here. If y
 ## Setup
 In a terminal/command prompt, navigate to where you'd like BonziWORLD to be placed and run the following:
 ```
-git clone -b 1.5.0 https://github.com/felipeangeloben/BonziWORLD
+git clone -b 1.5.0 https://github.com/felipeangeloben-create/BonziWORLD
 cd BonziWORLD
 ```
 
