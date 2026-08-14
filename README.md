@@ -18,7 +18,7 @@ All the source code for the server and client is publicly available here. If you
 ## Setup
 In a terminal and/or command prompt, navigate to where you'd like BonziWORLD to be placed and run the following:
 ```
-git clone -b dependabot/npm_and_yarn/server/lodash-4.17.19 https://github.com/felipeangeloben-create/BonziWORLD
+git clone -b dependabot/npm_and_yarn/server/lodash-4.17.19 https://github.com/TheRealKCFan20/BonziWORLD
 cd BonziWORLD
 ```
 
