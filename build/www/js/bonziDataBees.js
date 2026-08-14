@@ -1,0 +1,80 @@
+BonziData.event_list_bees = [
+	{
+		type: "text",
+		text: "According to all known laws"
+	},
+	{
+		type: "anim",
+		anim: "praise_fwd",
+		ticks: 15
+	},
+	{
+		type: "text",
+		text: "of aviation,"
+	},
+	{
+		type: "text",
+		text: "there is no way a bee"
+	},
+	{
+		type: "text",
+		text: "should be able to fly."
+	},
+	{
+		type: "text",
+		text: "Its wings are too small to get"
+	},
+	{
+		type: "text",
+		text: "its fat little body off the ground."
+	},
+	{
+		type: "text",
+		text: "The bee, of course, flies anyway"
+	},
+	{
+		type: "text",
+		text: "because bees don't care"
+	},
+	{
+		type: "text",
+		text: "what humans think is impossible."
+	},
+	{
+		type: "text",
+		text: "Yellow, black. Yellow, black."
+	},
+	{
+		type: "text",
+		text: "Yellow, black. Yellow, black."
+	},
+	{
+		type: "text",
+		text: "Ooh, black and yellow!"
+	},
+	{
+		type: "text",
+		text: "Wait... What?"
+	},
+	{
+		type: "anim",
+		anim: "praise_back",
+		ticks: 15
+	},
+	{
+		type: "text",
+		text: "Were you expecting me to say the entire Bee Movie script?"
+	},
+	{
+		type: "text",
+		text: "I can't continue this entire Bee Movie script anymore..."
+	},
+	{
+		type: "text",
+		text: "Hang on a second..."
+	},
+	{
+		type: "text",
+		text: "Screw this!"
+	}
+];
