@@ -159,4 +159,4 @@ Google Play and the Google Play logo are trademarks of Google Inc.
 
 ## Copyright Notice
 
-Copyright © 2000-2026 Felipe Angelo, Inc. All rights reserved.
+Copyright © 2000-2026 The Real Klasky Csupo Fan 20, Inc. All rights reserved.
