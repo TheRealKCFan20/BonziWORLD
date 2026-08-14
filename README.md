@@ -4,7 +4,7 @@ This respository is a fork of the [original](https://github.com/heyjoeway/BonziW
 
 This project has been discontinued by heyjoeway due to his time being taken up by other responsibilities. ~~Thanks for all the laughs and memes along the way.~~
 
-All the source code for the server and client is publically available here. If you want to run your own BonziWORLD, by all means go ahead. Do whatever you'd like with this code. _Just try to put me somewhere in the credits._
+All the source code for the server and client is publicly available here. If you want to run your own BonziWORLD, by all means go ahead. Do whatever you'd like with this code. _Just try to put me somewhere in the credits._
 
 ## Dependencies
 - Node.js and npm
@@ -18,7 +18,7 @@ All the source code for the server and client is publically available here. If y
 ## Setup
 In a terminal and/or command prompt, navigate to where you'd like BonziWORLD to be placed and run the following:
 ```
-git clone -b 1.5.0 https://github.com/felipeangeloben-create/BonziWORLD
+git clone -b 1.5.0 https://github.com/TheRealKCFan20/BonziWORLD
 cd BonziWORLD
 ```
 
