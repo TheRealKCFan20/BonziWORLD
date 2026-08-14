@@ -9,7 +9,7 @@ All the source code for the server and client is publically available here. If y
 ## Dependencies
 - Node.js and npm
 - Ruby
-- Sass
+- Scss/Sass
 - Git
 - Cordova (Optional)
 - Grunt
