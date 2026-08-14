@@ -142,7 +142,7 @@ Yep. but don't worry, try and wait for new updates in the future. _(Please wait 
 
 ## Contact me
 
-### felipeangeloben@gmail.com
+### therealkcfan20@gmail.com
 
 Email me there with any comments, questions, or concerns. Or whatever else. Memes? Sure, throw those in too. _Be warned that I'm notoriously awful at checking my email though._
 
