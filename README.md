@@ -22,14 +22,6 @@ git clone https://github.com/felipeangeloben-create/BonziWORLD
 cd BonziWORLD
 ```
 
-### Client
-```
-cd src
-npm install
-grunt build_www
-cd ..
-```
-
 ### Server
 ```
 cd server
