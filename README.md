@@ -4,7 +4,7 @@ This repository is a fork of the [original](https://github.com/heyjoeway/BonziWO
 
 This project has been discontinued by heyjoeway due to his time being taken up by other responsibilities. ~~Thanks for all the laughs and memes along the way.~~
 
-**This original repository has been discontinued due to any damages and/or script kiddies for causing the server to hacked and/or crash. On this day, *We will be experience on fixing between the bugs and mistakes on the original server.* Therefore, we will not be presenting on the fixing things in the original server.**
+**This original repository has been discontinued due to any damages and/or script kiddies for causing the server to hacked and/or crash (e.g. [the samsung fun club virus script](https://pastebin.com/E5qeGBHR)). On this day, *We will be experience on fixing between the bugs and mistakes on the original server.* Therefore, we will not be presenting on the fixing things in the original server.**
 
 All the source code for the server and client is publicly available here. If you want to run your own BonziWORLD, by all means go ahead. Do whatever you'd like with this code. _Just try to put me somewhere in the credits._
 
