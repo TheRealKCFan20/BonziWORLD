@@ -144,7 +144,7 @@ Yep. but don't worry, try and wait for the new updates in the future.
 
 ### therealkcfan20@gmail.com
 
-Email me there with any comments, questions, or concerns. Or whatever else. Have any memes? Sure! Throw those in too! _Be warned that I'm notoriously awful at checking my email though._
+Email me there with any comments, questions, or concerns. Or whatever else. Have any memes? Sure! Throw those in too! _Be warned that I'm notoriously awful at checking my email though..._
 
 ## App Banners
 
