@@ -132,7 +132,7 @@ Don't worry, Try and wait for new updates. _Please wait later._
 
 ### felipeangeloben@gmail.com
 
-Email me there with any comments, questions, or concerns. Or whatever else. Memes? Sure, throw those in too. _Be warned that I'm notoriously awful at checking my email though._
+Email me there with any comments, questions, or concerns. Or whatever else. Memes? Sure, throw those in too. _Be warned that I'm notoriously awful at checking my email though..._
 
 ## App Banners
 
