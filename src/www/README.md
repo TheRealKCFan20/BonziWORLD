@@ -114,7 +114,7 @@ Remember that people can play YouTube videos whenever they want. **Keep your vol
 * duckduckstab1
 * Rafafrias2012
 
-The dependencies and you guys are awesome. _(And so are you, whoever's reading this!)_ There are also probably some others I forgot. If I remember you, I'll add you here.
+You guys are awesome. _(And so are you, whoever's reading this!)_ There are also probably some others I forgot. If I remember you, I'll add you here.
 
 [shoutout1_url]: https://www.youtube.com/channel/UCpIJWYK1BB8LRA5eMZpQX-Q
 [shoutout2_url]: https://soundcloud.com/hexadecimalofficial
@@ -138,7 +138,7 @@ Yep, BonziWORLD is on GitHub! Server and all! If you wanna poke around and see h
 
 ## Will the new updates coming soon though?
 
-Yep. but don't worry, try and wait for new updates in the future. _(Please wait later.)_
+Yep. but don't worry, try and wait for the new updates in the future.
 
 ## Contact me
 
