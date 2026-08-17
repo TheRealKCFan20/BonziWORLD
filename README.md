@@ -9,9 +9,11 @@ All the source code for the server and client is publicly available here. If you
 ## Dependencies
 - Node.js and npm
 - Ruby
-- Sass
+- Scss/Sass
 - Git
 - Cordova (Optional)
+- Grunt
+- Winston
 
 ## Setup
 In a terminal/command prompt, navigate to where you'd like BonziWORLD to be placed and run the following:
