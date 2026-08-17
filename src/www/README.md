@@ -23,7 +23,7 @@ BonziWORLD was released by the creator called **Joseph Judge** since August 22nd
 
 1. Enter a nickname (under 25 characters). If you don't enter one, you'll be named "Ananymass".
 	* Ananymass was included in BonziSPHERE and the other servers.
-3. Enter a room ID.
+3. Enter a room ID (optionally).
     * If you want to join someone else, their room ID will be in the bottom-right corner of the screen.
 	* If you enter a room ID that doesn't exist, you will be placed in a private room which can only be joined by people you share the ID with.
 5. Be a BonziBUDDY.
