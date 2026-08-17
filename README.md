@@ -1,10 +1,10 @@
 # BonziWORLD Fully Patched
 
-This respository is a fork of the [original](https://github.com/heyjoeway/BonziWORLD) and [patched](https://github.com/duckduckstab1/BonziWORLD-patched). It will be updated frequently to be fully secure and fix problems with either the server or the client.
+This repository is a fork of the [original](https://github.com/heyjoeway/BonziWORLD) and [patched](https://github.com/duckduckstab1/BonziWORLD-patched). It will be updated frequently to be fully secure and fix problems with either the server or the client.
 
 This project was discontinued by heyjoeway due to his time being taken up by other responsibilities.
 
-All the source code for the server and client is publically available here. If you want to run your own BonziWORLD, by all means go ahead. Do whatever you'd like with this code. Just try to put me somewhere in the credits.
+All the source code for the server and client is publicly available here. If you want to run your own BonziWORLD, by all means go ahead. Do whatever you'd like with this code. Just try to put me somewhere in the credits.
 
 ## Dependencies
 - Node.js and npm
